@@ -18,7 +18,7 @@
    
    
 ## Starting from scratch?
-### Intro to Computer Science
+### Intro to Computer Science Courses
 - Harvard CS50: Introduction to Computer Science [YOUTUBE](https://www.youtube.com/watch?v=IDDmrzzB14M&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4)
 - MIT 6.0001 Introduction to Computer Science and Programming in Python [YOUTUBE](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - MIT 6.0002 Introduction to Computational Thinking and Data Science [YOUTUBE](https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
