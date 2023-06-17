@@ -17,6 +17,7 @@
 - Deep Learning the Next Twenty Years of Metamaterials - Willie Padilla [YOUTUBE](https://www.youtube.com/watch?v=FpTV9NvWb64)
 - LLMs and GPT4 in Materials and Chemistry (How to Be a Chemist in 2023) - Andrew White [YOUTUBE](https://www.youtube.com/watch?v=0HNu2AE0frw)
 - Iterative Molecular Discovery with interpretable Deep Learning - Andrew White [YOUTUBE](https://www.youtube.com/watch?v=tuYD8atBijg)
+- Why ML Can Find a New Material, But Not a Needle in a Haystack - Kevin Jablonka [YOUTUBE](https://www.youtube.com/watch?v=NhXmoYRZVk8)
            
        
 # Starting from scratch?
