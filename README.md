@@ -4,6 +4,9 @@
 - deep learning for molecules and materials - Andrew White [WEBSITE](https://dmol.pub/)
 - Pattern Recognition & Machine Learning - Christopher Bishop [BOOK](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - Undestanding Molecular Simulation: From Algorithms to Applications - Daan Frenkel & Berend Smit [BOOK](https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Books/%5BComputational%20science%20(San%20Diego,%20Calif.)%5D%20Daan%20Frenkel_%20Berend%20Smit%20-%20Understanding%20molecular%20simulation%20_%20from%20algorithms%20to%20applications%20(2002,%20Academic%20Press%20)%20-%20libgen.lc.pdf)
+- Essentials of Computational Chemistry: Theories and Models - Christopher Cramer [BOOK](https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Books/Essentials%20of%20Computational%20Chemistry.pdf)
+- Molecular Modelling: Principles and Applications - Andrew Leach [BOOK](http://course.sdu.edu.cn/Download2/20211011140445728.pdf)
+- Understanding Molecular Simulation: From Algorithms to Applications - Berend Smit and Daan Frenkel [BOOK](https://datagrid.hu/boda/Boda-sajat/Rush/Books/Frenkel.pdf)
 
 ## Talks
 - Molecular Representations for Drug Discovery - Djork-Arné Clevert [YOUTUBE](https://www.youtube.com/watch?v=ho9f-5JsJD8)
