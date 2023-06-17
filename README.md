@@ -10,6 +10,8 @@
 - Representation and generation of molecular graphs - Tommi Jaakkola [YOUTUBE](https://www.youtube.com/watch?v=ISX-mHnQhaw)
 - Diffusion based distributional modeling of conformers, blind docking and proteins - Tommi Jaakkola [YOUTUBE](https://www.youtube.com/watch?v=HOlVUEZr7Nw)
 - Modeling with Machine Learning: Challenges and Some Solutions - Tommi Jaakkola [YOUTUBE](https://www.youtube.com/watch?v=swdHeK7VajM)
+- Language is the future of chemistry - Andrew White [YOUTUBE](https://www.youtube.com/watch?v=FpTV9NvWb64)
+- Deep Learning the Next Twenty Years of Metamaterials - Willie Padilla [YOUTUBE](https://www.youtube.com/watch?v=FpTV9NvWb64)
    
    
 ## Starting from scratch?
