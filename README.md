@@ -42,7 +42,8 @@
 - NYU Deep Learning [YOUTUBE](https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 
 ### Computer vision
-- Deep Learning for Vision Systems - Mohamed Elgendy
+- Computer Vision: Algorithms and Applications - Richard Szeliski [BOOK](https://szeliski.org/Book/)
 - The Anciest Secrets of Computer Vision - Joseph Redmon [YOUTUBE](https://www.youtube.com/watch?v=8jXIAWg_yHU&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)
+- Deep Learning for Vision Systems - Mohamed Elgendy
 
 *All links are from public sources.*
