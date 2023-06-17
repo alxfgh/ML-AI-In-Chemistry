@@ -18,16 +18,26 @@
 - MIT 6.0001 Introduction to Computer Science and Programming in Python [YOUTUBE](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - MIT 6.0002 Introduction to Computational Thinking and Data Science [YOUTUBE](https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 - MIT 6.034 Artificial Intelligence [YOUTUBE](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+- Algorithms for Decision Making - Mykel Kochenderfer, Tim Wheeler and Kyle Wray [WEBSITE](https://algorithmsbook.com/)
+- MIT 6.042J Discrete Mathematics/Mathematics for Computer Science [YOUTUBE](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
+- MIT 18.404J Theory of Computation [YOUTUBE](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 
 ### Intro to Machine Learning, Deep Learning & Artificial Intelligence
+- StatQuest with Josh Starmer [YOUTUBE](https://www.youtube.com/@statquest)
 - Kaggle [WEBSITE](kaggle.com)
+- The Hundred Page Machine Learning Book - Andriy Burkov [WEBSITE](https://themlbook.com/wiki/doku.php)
 - Deep Learning- Ian Goodfellow, Yoshua Bengio and Aaron Courville [WEBSITE](https://www.deeplearningbook.org/)
 - Dive into Deep Learning [WEBSITE](http://d2l.ai/index.html)
+- fast.ai's Practical Deep Learning for Coders - Jeremy Howard [WEBSITE](https://course.fast.ai/)
 - Introduction to Machine Learning: Draft of Incomplete Notes - Nils J. Nilsson [BOOK](https://ai.stanford.edu/~nilsson/mlbook.html)
 - Machine Learning with PyTorch and Scikit-Learn - Sebastien Raschka, Yuxi Liu and Vahid Mirjalili
 - Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow - Aurelien Geron
 - Deep Learning with Python - François Chollet
+- Machine Learning for Absolute Beginners - Oliver Theobald
+- NYU Deep Learning [YOUTUBE](https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 
 ### Computer vision
 - Deep Learning for Vision Systems - Mohamed Elgendy
 - The Anciest Secrets of Computer Vision - Joseph Redmon [YOUTUBE](https://www.youtube.com/watch?v=8jXIAWg_yHU&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)
+
+*All links are from public sources.*
