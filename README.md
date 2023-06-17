@@ -1,4 +1,4 @@
-# Chemical-Computer-Science-Resourcese
+# Chemical Computer Science Resources
   
 ## Books & Websites
 - deep learning for molecules and materials - Andrew White [WEBSITE](https://dmol.pub/)
