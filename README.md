@@ -51,5 +51,7 @@
 - Algorithms for Decision Making - Mykel Kochenderfer, Tim Wheeler and Kyle Wray [WEBSITE](https://algorithmsbook.com/)
 - MIT 6.042J Discrete Mathematics/Mathematics for Computer Science [YOUTUBE](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 - MIT 18.404J Theory of Computation [YOUTUBE](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+- MIT 6.001 Structure and Interpretation, 1986 [YOUTUBE](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
+- SICP Reading Group [YOUTUBE](https://www.youtube.com/watch?v=oA-FdE3KV88&list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0)
 
 *All links are from public sources.*
