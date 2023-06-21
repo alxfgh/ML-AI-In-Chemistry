@@ -63,6 +63,6 @@
 - SICP Reading Group [YOUTUBE](https://www.youtube.com/watch?v=oA-FdE3KV88&list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0)
 - Packaging Scientific Software with Conda-Forge - Jan Janssen [YOUTUBE](https://www.youtube.com/watch?v=P9_uMPyEQrg)
 - Computing at the Moiré Scale - Mitchell Luskin [YOUTUBE](https://www.youtube.com/watch?v=_V-mu1YAVgk)
-- Legacy of Computers / The role of programming - Gerald Jay Sussman [SHORT](https://www.youtube.com/watch?v=arMH5GjBwUQ) [LONG](https://www.youtube.com/watch?v=fAY0_pesZ6s)
+- Legacy of Computers / The role of programming - Gerald Jay Sussman [LONG](https://www.youtube.com/watch?v=fAY0_pesZ6s) | [SHORT](https://www.youtube.com/watch?v=arMH5GjBwUQ) 
 
 *All links are from public sources.*
