@@ -1,4 +1,4 @@
-#Machine Learning, Deep Learning & Artificial Intelligence in Chemistry: A Bunch of Resources
+# Machine Learning, Deep Learning & Artificial Intelligence in Chemistry: A Bunch of Resources
   
 ## Books & Websites
 - deep learning for molecules and materials - Andrew White [WEBSITE](https://dmol.pub/)
