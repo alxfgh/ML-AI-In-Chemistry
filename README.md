@@ -58,9 +58,11 @@
 - Algorithms for Decision Making - Mykel Kochenderfer, Tim Wheeler and Kyle Wray [WEBSITE](https://algorithmsbook.com/)
 - MIT 6.042J Discrete Mathematics/Mathematics for Computer Science [YOUTUBE](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 - MIT 18.404J Theory of Computation [YOUTUBE](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+- MIT 6.868J The Society of Mind [YOUTUBE](https://www.youtube.com/playlist?list=PLUl4u3cNGP61E-vNcDV0w5xpsIBYNJDkU)
 - MIT 6.001 Structure and Interpretation, 1986 [YOUTUBE](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 - SICP Reading Group [YOUTUBE](https://www.youtube.com/watch?v=oA-FdE3KV88&list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0)
 - Packaging Scientific Software with Conda-Forge - Jan Janssen [YOUTUBE](https://www.youtube.com/watch?v=P9_uMPyEQrg)
 - Computing at the Moiré Scale - Mitchell Luskin [YOUTUBE](https://www.youtube.com/watch?v=_V-mu1YAVgk)
+- Legacy of Computers / The role of programming - Gerald Jay Sussman [SHORT](https://www.youtube.com/watch?v=arMH5GjBwUQ) [LONG](https://www.youtube.com/watch?v=fAY0_pesZ6s)
 
 *All links are from public sources.*
